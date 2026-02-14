@@ -112,4 +112,4 @@ XTTS v2 est sous [Coqui Public Model License](https://coqui.ai/cpml).
 
 ---
 
-Créé par **Morwintar** 🖤
+Créé par **Morwintar** 🖤 avec l'aide de **Delta_x1988** et de son acolyte **GhostNode**
